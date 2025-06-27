@@ -1,7 +1,5 @@
 # __How to create a boot-able USB for Windows:__ 
-
-__How to create a boot-able USB for Windows:__ 
-
+ 
 Minimum size of the USB Drive: 8GB but 16GB+ is recommended. 
 
 
