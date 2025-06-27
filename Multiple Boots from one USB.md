@@ -1,5 +1,5 @@
 
-#Can you do multiple boots from one key?
+# Can you do multiple boots from one key?
 Yes, you can use a bootloader. One Example for it is Ventoy. <br/>
 <br/>
 Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
